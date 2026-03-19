@@ -1,0 +1,19 @@
+
+-----------------------------------------------------
+                 ACCOUNT INFORMATION                  
+-----------------------------------------------------
+
+Account No     : 1001
+Account Name   : Priya Rajput
+Balance        : 93500
+Type           : Saving
+ROI            : 3%
+-----------------------------------------------------
+
+Account No     : 1002
+Account Name   : Sangmesh Machetti
+Balance        : 90000
+Type           : Current
+ROI            : 5%
+-----------------------------------------------------
+
